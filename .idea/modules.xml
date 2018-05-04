@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IISManager.iml" filepath="$PROJECT_DIR$/.idea/IISManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PyProjectDeploy/.idea/PyProjectDeploy.iml" filepath="$PROJECT_DIR$/../PyProjectDeploy/.idea/PyProjectDeploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XmlManager/.idea/XmlManager.iml" filepath="$PROJECT_DIR$/../XmlManager/.idea/XmlManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../dingding/.idea/dingding.iml" filepath="$PROJECT_DIR$/../../dingding/.idea/dingding.iml" />
+    </modules>
+  </component>
+</project>
